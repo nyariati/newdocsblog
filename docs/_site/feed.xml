@@ -4,10 +4,10 @@
     <title>Squad D @ GE Budapest</title>
     <description>This is PMEAS's API GithubPages Documentation Site.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Mar 2017 13:56:33 +0200</pubDate>
-    <lastBuildDate>Wed, 29 Mar 2017 13:56:33 +0200</lastBuildDate>
+    <link>http://localhost:4000/newdocsblog/</link>
+    <atom:link href="http://localhost:4000/newdocsblog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 29 Mar 2017 14:12:55 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Mar 2017 14:12:55 +0200</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>
 </description>
         <pubDate>Tue, 28 Mar 2017 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/apis/2017/03/28/yield.html</link>
-        <guid isPermaLink="true">http://localhost:4000/apis/2017/03/28/yield.html</guid>
+        <link>http://localhost:4000/newdocsblog/apis/2017/03/28/yield.html</link>
+        <guid isPermaLink="true">http://localhost:4000/newdocsblog/apis/2017/03/28/yield.html</guid>
         
         
         <category>apis</category>
