@@ -3,7 +3,7 @@ title: Squad D @ GE Budapest
 description: >
   This is PMEAS's API GithubPages Documentation Site.
 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "newdocsblog/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 author:
