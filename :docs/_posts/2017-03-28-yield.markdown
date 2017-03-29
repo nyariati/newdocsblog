@@ -1,0 +1,8 @@
+---
+layout: swagger
+title:  "YIELD API"
+subtitle: "Wooohooo 🚀"
+date:   2017-03-28
+categories: [apis]
+data: fruits
+---
