@@ -3,8 +3,8 @@ title: Squad D @ GE Budapest
 description: >
   This is PMEAS's API GithubPages Documentation Site.
 
-baseurl: "newdocsblog/" # the subpath of your site, e.g. /blog/
-url: "https://nyariati.github.io/" # the base hostname & protocol for your site
+baseurl: "/newnewdocsblog" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 
 author:
   fullname: Gergely Sipos
